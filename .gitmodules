@@ -1,0 +1,15 @@
+[submodule "app/jni/bullet"]
+	path = app/jni/bullet
+	url = https://github.com/grend3d/bullet.git
+[submodule "app/jni/glm"]
+	path = app/jni/glm
+	url = https://github.com/g-truc/glm/
+[submodule "app/jni/grend"]
+	path = app/jni/grend
+	url = https://github.com/grend3d/grend
+[submodule "app/jni/landscape-demo"]
+	path = app/jni/landscape-demo
+	url = https://github.com/grend3d/landscape-demo
+[submodule "app/jni/SDL"]
+	path = app/jni/SDL
+	url = https://github.com/grend3d/SDL.git
